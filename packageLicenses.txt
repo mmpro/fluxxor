@@ -1,0 +1,9 @@
+include dir /Users/johannesfrohlich/workspace/fluxxor
+scanning /Users/johannesfrohlich/workspace/fluxxor
+└─ fluxxor@1.7.3
+   ├─ licenses: MIT
+   ├─ repository: https://github.com/BinaryMuse/fluxxor
+   ├─ licenseUrl: https://github.com/BinaryMuse/fluxxor/raw/master/LICENSE
+   └─ parents: UNDEFINED
+
+Number of entries found: 1
